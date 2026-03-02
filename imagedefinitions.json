@@ -1,0 +1,6 @@
+[ 
+ { 
+ "name": "hello-world", 
+ "imageUri": "507282034088.dkr.ecr.us-east-1.amazonaws.com/actions/image-repo" 
+ }
+]
